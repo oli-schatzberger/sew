@@ -1,0 +1,6 @@
+#DataSourceSettings#
+#LocalDataSource: db@localhost
+#BEGIN#
+<data-source source="LOCAL" name="db@localhost" uuid="b1b46be2-6132-4e4f-b335-d4f679745283"><database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="DERBY" exact-version="0"/><driver-ref>derby.remote</driver-ref><synchronize>true</synchronize><jdbc-driver>org.apache.derby.jdbc.ClientDriver</jdbc-driver><jdbc-url>jdbc:derby://localhost:1527/db;create=true</jdbc-url><secret-storage>master_key</secret-storage><user-name>app</user-name><schema-mapping/><working-dir>$ProjectFileDir$</working-dir></data-source>
+#END#
+
